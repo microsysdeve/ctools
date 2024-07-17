@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<TITLE>HexDump</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#660099" ALINK="#FF0000">
+<H1>HexDump</H1>
+
+<B>by <A HREF="http://www.richpasco.org/">Rich Pasco</A></B>
+<BR>Revised Thursday, November 11, 2004
+<BR>Copyright &copy; 2004 Richard Pasco
+<P>
+HexDump is a Windows command-line utility which reads a binary
+file and writes text file with a hexadecimal dump of its contents
+
+<P>
+License is
+free to end users, but I retain the copyright.  This program is
+shared &quot;as-is&quot; without warranty, promise of support, or
+liability for consequences of its use.
+<H2>Calling syntax</H2>
+<P>
+Command-line invocation is according to the syntax:
+<pre>
+  hexdump <I>filename</I>  [/skip:n] [/keep:n] [/bare] > dumpfile.txt
+</pre>
+Where:
+  <Table>
+    <TR>
+      <TD>&nbsp;&nbsp;&nbsp;<TD><TT>  /skip:n</TT><TD>Offset where to begin dumping (prefix hex with $)
+    <TR>
+      <TD>&nbsp;&nbsp;&nbsp;<TD><TT>  /keep:n</TT><TD>Number of bytes to dump
+    <TR>
+      <TD>&nbsp;&nbsp;&nbsp;<TD><TT>/bare</TT><TD>Omit headings
+  </Table>
+
+<H2>Installation</H2>
+<OL>
+<LI>Download and open <TT><A HREF="hexdump.zip">hexdump.zip</A></TT>.
+<LI>Move <TT>hexdump.exe</TT> into any directory on your command <TT>PATH</TT>.
+<LI>Save <TT>hexdump.html</TT> (this file) for future reference.
+</OL>
+<HR>
+<Address>Author: <A HREF="http://www.richpasco.org/">Rich Pasco</A></Address>
+</BODY>
+</HTML>
+

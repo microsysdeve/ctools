@@ -1,0 +1,154 @@
+cscope 15 C:\ctools"               0000000887
+	@blatdll.h
+
+1 #ià!
+defšed
+(
+__BLATDLL_H__
+)
+
+2 
+	#__BLATDLL_H__
+
+
+	)
+
+4 
+	~<tch¬.h
+>
+
+6 #ià
+defšed
+(
+_UNICODE
+è|| defšed(
+UNICODE
+)
+
+7 
+	#lcszBÏtFunùiÚName_S’d
+ "S’dW"
+
+	)
+
+8 
+	#lcszBÏtFunùiÚName_BÏt
+ "BÏtW"
+
+	)
+
+9 
+	#lcszBÏtFunùiÚName_cS’d
+ "cS’dW"
+
+	)
+
+10 
+	#lcszBÏtFunùiÚName_S‘PrštFunc
+ "S‘PrštFuncW"
+
+	)
+
+12 
+	#lcszBÏtFunùiÚName_S’d
+ "S’dA"
+
+	)
+
+13 
+	#lcszBÏtFunùiÚName_BÏt
+ "BÏtA"
+
+	)
+
+14 
+	#lcszBÏtFunùiÚName_cS’d
+ "cS’dA"
+
+	)
+
+15 
+	#lcszBÏtFunùiÚName_S‘PrštFunc
+ "S‘PrštFuncA"
+
+	)
+
+18 #ià
+defšed
+(
+__ýlu¥lus
+)
+
+22 
+__deþ¥ec
+(
+dÎexpÜt
+è
+APIENTRY
+ 
+S’d
+Ð
+LPCTSTR
+ 
+sCmd
+ );
+
+24 
+__deþ¥ec
+(
+dÎexpÜt
+è
+_¡dÿÎ
+ 
+BÏt
+Ð
+¬gc
+, 
+LPTSTR
+ 
+¬gv
+[] );
+
+26 
+__deþ¥ec
+(
+dÎexpÜt
+è
+_¡dÿÎ
+ 
+S‘PrštFunc
+Ð(
+__¡dÿÎ
+ *
+func
+)(
+LPTSTR
+) );
+
+28 
+__deþ¥ec
+(
+dÎexpÜt
+è
+__cdeþ
+ 
+cS’d
+ ( 
+LPCTSTR
+ 
+sCmd
+ );
+
+30 #ià
+defšed
+(
+__ýlu¥lus
+)
+
+	@
+1
+.
+0
+1
+10
+blatdll.h

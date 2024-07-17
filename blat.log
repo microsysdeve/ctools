@@ -1,0 +1,68 @@
+
+2013.04.01 11:53:45 (Mon)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2013.04.01 11:53:48 (Mon): Error: Server refused connection.
+2013.04.01 11:53:50 (Mon): Error: Can't resolve hostname (smtp).
+2013.04.01 11:53:50 (Mon)-------------End of Session------------------
+
+2013.04.01 11:56:31 (Mon)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2013.04.01 11:56:35 (Mon): Error: Server refused connection.
+2013.04.01 11:56:37 (Mon): Error: Can't resolve hostname (smtp).
+2013.04.01 11:56:37 (Mon)-------------End of Session------------------
+
+2013.04.01 11:58:20 (Mon)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2013.04.01 11:58:23 (Mon): Error: Server refused connection.
+2013.04.01 11:58:23 (Mon): <<<getline<<< 220 m199-177.yeah.net ESMTP HMail (1.0)
+2013.04.01 11:58:23 (Mon): >>>putline>>> EHLO microsys-galaxy.szgc.com.cn
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-m199-177.yeah.net
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-PIPELINING
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-SIZE 71680000
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-ETRN
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-STARTTLS
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-AUTH LOGIN PLAIN
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250-ENHANCEDSTATUSCODES
+2013.04.01 11:58:23 (Mon): <<<getline<<< 250 8BITMIME
+2013.04.01 11:58:26 (Mon): Sending updatelist.txt to microsysdevelop@gmail.com
+2013.04.01 11:58:26 (Mon): Subject: pangxiao mail relecode 
+2013.04.01 11:58:26 (Mon): Login name is pangxiao@szgc.com.cn
+2013.04.01 11:58:26 (Mon): Attached binary file: pro-(20130401-115819).7z
+2013.04.01 11:58:26 (Mon): >>>putline>>> AUTH PLAIN  *****
+2013.04.01 11:58:26 (Mon): <<<getline<<< 235 2.7.0 Authentication successful
+2013.04.01 11:58:26 (Mon): >>>putline>>> MAIL FROM:<pangxiao@szgc.com.cn>
+2013.04.01 11:58:26 (Mon): <<<getline<<< 250 2.1.0 Ok
+2013.04.01 11:58:26 (Mon): >>>putline>>> RCPT TO:<microsysdevelop@gmail.com>
+2013.04.01 11:58:26 (Mon): <<<getline<<< 250 2.1.5 Ok
+2013.04.01 11:58:32 (Mon): >>>putline>>> DATA
+2013.04.01 11:58:32 (Mon): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2013.04.01 11:58:32 (Mon): <<<getline<<< 250 2.0.0 Ok: queued as DAE6111013B1
+2013.04.01 11:58:32 (Mon): >>>putline>>> QUIT
+2013.04.01 11:58:32 (Mon): <<<getline<<< 221 2.0.0 Bye
+2013.04.01 11:58:32 (Mon)-------------End of Session------------------
+
+2018.06.26 19:41:39 (Tue)------------Start of Session-----------------
+Blat v3.1.1 (build : Feb 27 2013 20:04:23)
+32-bit Windows, Full, Unicode
+2018.06.26 19:41:39 (Tue): Failed to open registry key for Blat
+2018.06.26 19:41:39 (Tue): To set the SMTP server's name/address and your username/email address for that
+server machine do:
+blat -install  server_name  your_email_address
+or use '-server <server_name>' and '-f <your_email_address>'
+2018.06.26 19:41:39 (Tue): aborting, nothing sent
+2018.06.26 19:41:39 (Tue)-------------End of Session------------------
+
+2021.04.12 11:30:51 (Mon)------------Start of Session-----------------
+Blat v3.2.19 (build : Nov 18 2017 03:14:35)
+32-bit Windows, Full, Unicode
+2021.04.12 11:30:51 (Mon): Failed to open registry key for Blat
+2021.04.12 11:30:51 (Mon): To set the SMTP server's name/address and your username/email address for that
+server machine do:
+blat -install  server_name  your_email_address
+or use '-server <server_name>' and '-f <your_email_address>'
+2021.04.12 11:30:51 (Mon): aborting, nothing sent
+2021.04.12 11:30:51 (Mon)-------------End of Session------------------
