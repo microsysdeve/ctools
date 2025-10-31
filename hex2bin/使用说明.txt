@@ -1,0 +1,12 @@
+keil uVision3中的hex2bin.bat批量处理文件对操作系统是有区别的
+
+32位系统中的内容为：
+	hexbin.exe Out\Scan.hex Out\Scan.bin i
+
+64位系统中的内容为：
+	hexbin-64.exe -p 0 Out\Scan.hex
+
+
+可见，在32位系统中，keil编译转换时候，调用的是hexbin.exe工具；而在64位系统中，调用的是hexbin-64.exe工具；
+
+所以，要在64位系统下，要将工程目录下的hexbin.exe文件替换为hexbin-64.exe，并将hex2bin.bat改为64位系统中的内容
